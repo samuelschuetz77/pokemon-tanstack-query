@@ -1,0 +1,32 @@
+=== PART 1: RESEARCH ===
+
+1. What is TanStack Query?
+
+
+2. Three use cases
+
+   a)
+
+   b)
+
+   c)
+
+3. When would I NOT use it?
+
+
+=== PART 3: REFLECTION & COMPARISON ===
+
+1. Comparing the code
+
+
+2. Understanding query keys
+
+
+3. Understanding caching
+
+
+4. My opinion
+
+
+=== AI USAGE DISCLOSURE ===
+
